@@ -1,0 +1,81 @@
+.navbar{
+    background-color:  #FF5733  !important;
+}
+
+.nav-link{
+    color: #fff !important;
+    font-weight: bold;
+}
+
+.fa-shopping-cart,.fa-user{
+    font-size: 32px !important;
+}
+
+.fa-truck,.fa-headphones,.fa-thumbs-up{
+    font-size: 50px !important;
+    margin-right: 10px;
+    color: blueviolet;
+}
+
+h3{
+    color:#FF5733;
+}
+.card1,.card2,.card3{
+    display: flex;
+    width:300px;
+    height:100px;
+    background-color: white;
+    box-shadow: 2px 4px 5px grey;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.maincard{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+     justify-content: space-around;
+     flex-wrap: wrap;
+    }
+
+    .newArrivals{
+        margin-top: 50px;
+    }
+
+.card{
+    width:250px;
+    height:auto !important;
+    margin-bottom: 30px;
+}    
+
+.card-text{
+    font-weight: bold;
+}
+    
+.btn-primary{
+        width:100%;
+        background-color:red;
+}
+
+h1{
+    text-align: center;
+    font-weight: bold;
+    color: red;
+    margin: 20px;
+    text-shadow: 2px 5px 6px brown;
+}
+
+.footer{
+      width:100%;
+      background-color: crimson;
+      height:55px;
+}
+
+.footer > div{
+    text-align: center;
+}
+h4{
+ color: white;
+}
+
